@@ -8,10 +8,10 @@ Explore US Bikeshare Data
 In this project, I had to make use of python to explore data related to bike share systems for three major cities in the United States - Chicago , New York City , and Washington
 
 ### Statistics Computed
-#1 Popular times of travel
-#2 Popular stations and trip
-#3 Trip duration
-#4 User info
+######-1 Popular times of travel
+######-2 Popular stations and trip
+######-3 Trip duration
+######-4 User info
 
 ### Files used
 - chicago.csv
@@ -19,10 +19,10 @@ In this project, I had to make use of python to explore data related to bike sha
 - washington.csv
 
 ### Technologies Used
-Python 3.9.
-Anaconda.
-numpy 1.23.5.
-pandas 1.5.
+- [Python](https://www.python.org/) 3.9.
+- [Anaconda](https://www.anaconda.com/).
+- [numpy](https://numpy.org/) 1.23.5.
+- [pandas](https://pandas.pydata.org/) 1.5.2
 
 ### Credits
-Thanks to Udacity platform for Providing challenging projects in Programming for data science with python Nanodegree program
+Thanks to [Udacity](https://www.udacity.com). platform for Providing challenging projects in Programming for data science with python Nanodegree program
