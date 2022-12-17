@@ -18,11 +18,11 @@ In this project, I had to make use of python to explore data related to bike sha
 - new_york_city.csv
 - washington.csv
 
-### Technologies Used:
-Python 3.9
-Anaconda
-numpy 1.23.5
-pandas 1.5
+### Technologies Used
+Python 3.9.
+Anaconda.
+numpy 1.23.5.
+pandas 1.5.
 
 ### Credits
 Thanks to Udacity platform for Providing challenging projects in Programming for data science with python Nanodegree program
