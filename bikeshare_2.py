@@ -1,7 +1,5 @@
 import time
 import pandas as pd
-import numpy as np
-import datetime as dt
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -114,6 +112,7 @@ def station_stats(df):
     # TO DO: display most frequent combination of start station and end station trip
     df['Start-End Combination'] = (df['Start Station'] + ' - ' + df['End Station'])
     most_common_start_end_combination = str(df['Start-End Combination'].mode()[0])
+    
     print("For the selected filters, the most common start-end combination "
           "of stations is: " + most_common_start_end_combination)
  
